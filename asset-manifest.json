@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Little-Lemon-App/static/css/main.4fd0a91b.css",
+    "main.js": "/Little-Lemon-App/static/js/main.7edcb12c.js",
+    "static/js/787.c0b67421.chunk.js": "/Little-Lemon-App/static/js/787.c0b67421.chunk.js",
+    "static/media/MarioAdrian1.jpg": "/Little-Lemon-App/static/media/MarioAdrian1.7f44c6d6e341a27d14b3.jpg",
+    "static/media/MarioAdrian.jpg": "/Little-Lemon-App/static/media/MarioAdrian.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/chefImage.jpg": "/Little-Lemon-App/static/media/chefImage.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek salad.jpg": "/Little-Lemon-App/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restaurantfood.jpg": "/Little-Lemon-App/static/media/restaurantfood.e8abf5b772b6817189aa.jpg",
+    "static/media/food6.jpg": "/Little-Lemon-App/static/media/food6.0e08e12851a1a3a21183.jpg",
+    "static/media/food4.jpg": "/Little-Lemon-App/static/media/food4.79e9e5f1590d7b582a9d.jpg",
+    "static/media/food5.jpg": "/Little-Lemon-App/static/media/food5.840baf30e0d9b3f4c2fb.jpg",
+    "static/media/des7.jpg": "/Little-Lemon-App/static/media/des7.129c4b0c55b2c8361530.jpg",
+    "static/media/bgImage.jpg": "/Little-Lemon-App/static/media/bgImage.ba01ca81956d2d46680f.jpg",
+    "static/media/des4.jpg": "/Little-Lemon-App/static/media/des4.8282d2d5803dd740fc9c.jpg",
+    "static/media/Bruchetta.png": "/Little-Lemon-App/static/media/Bruchetta.8d6ea260776b0deb2763.png",
+    "static/media/Avat5.png": "/Little-Lemon-App/static/media/Avat5.c188b8ea824a5227c45c.png",
+    "static/media/LilLemLogo.svg": "/Little-Lemon-App/static/media/LilLemLogo.f72c913c48c5334f78f2c336ec36f22b.svg",
+    "static/media/Avat4.png": "/Little-Lemon-App/static/media/Avat4.39853b7d0ff5dd24186f.png",
+    "static/media/Avat.png": "/Little-Lemon-App/static/media/Avat.2e95f527d9b84ed9d88a.png",
+    "static/media/Avat3.png": "/Little-Lemon-App/static/media/Avat3.2d4ad1fbee12c9b63bf4.png",
+    "static/media/patio.png": "/Little-Lemon-App/static/media/patio.3a1b876f924afa71c97a.png",
+    "index.html": "/Little-Lemon-App/index.html",
+    "main.4fd0a91b.css.map": "/Little-Lemon-App/static/css/main.4fd0a91b.css.map",
+    "main.7edcb12c.js.map": "/Little-Lemon-App/static/js/main.7edcb12c.js.map",
+    "787.c0b67421.chunk.js.map": "/Little-Lemon-App/static/js/787.c0b67421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd0a91b.css",
+    "static/js/main.7edcb12c.js"
+  ]
+}
